@@ -1,14 +1,14 @@
-## 👋 Olá! 
+# 👋 Olá! 
 
 Sou Vinícius Gabriel, um desenvolvedor de software & Analista QA, atualmente faço Técnico em Desenvolvimento de Sistemas na instituição Senai Nami Jafet.
 
-## 🚀 Especializado em:
+# 🚀 Especializado em:
 
 Desenvolvedor Front-End qualificado em desenvolvimento web, apaixonado por criar interfaces interativas. conhecimento em HTML, CSS, JavaScript, conhecedor da biblioteca React.
 
 Além disso disso sou fanático por Testes de Software, buscando garantir a qualidade e a robustez dos produtos.
 
-## 💻 Tecnologias que domino:
+# 💻 Tecnologias que domino:
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="html5" src="https://camo.githubusercontent.com/49fbb99f92674cc6825349b154b65aaf4064aec465d61e8e1f9fb99da3d922a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465">
@@ -19,12 +19,12 @@ Além disso disso sou fanático por Testes de Software, buscando garantir a qual
 <img align="center" alt="jira" src="https://camo.githubusercontent.com/35e11e06e4198d1ade41f868a377efe1abc0d85078f92d55c078b972d4240ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6972612d2532333041304646462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a697261266c6f676f436f6c6f723d7768697465">
 </div>
 
-## 🌐 Redes Sociais:
+# 🌐 Redes Sociais:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciuszzw/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-feitosa-57762323b/)
 
-## Github Status:
+# Github Status:
 
 <div>
 <a href="https://github.com/vinigabrielfeitosa">
