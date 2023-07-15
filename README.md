@@ -1,12 +1,12 @@
 # 👋 Olá! 
 
-Sou Vinícius Gabriel, um desenvolvedor de software & Analista QA, atualmente faço Técnico em Desenvolvimento de Sistemas na instituição Senai Nami Jafet.
+#### Sou Vinícius Gabriel, um desenvolvedor de software & Analista QA, atualmente faço Técnico em Desenvolvimento de Sistemas na instituição Senai Nami Jafet.
 
 # 🚀 Especializado em:
 
-Desenvolvedor Front-End qualificado em desenvolvimento web, apaixonado por criar interfaces interativas. conhecimento em HTML, CSS, JavaScript, conhecedor da biblioteca React.
+#### Desenvolvedor Front-End qualificado em desenvolvimento web, apaixonado por criar interfaces interativas. conhecimento em HTML, CSS, JavaScript, conhecedor da biblioteca React.
 
-Além disso disso sou fanático por Testes de Software, buscando garantir a qualidade e a robustez dos produtos.
+#### Além disso disso sou fanático por Testes de Software, buscando garantir a qualidade e a robustez dos produtos.
 
 # 💻 Tecnologias que domino:
 
