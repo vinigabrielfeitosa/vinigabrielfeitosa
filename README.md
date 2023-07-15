@@ -1,6 +1,6 @@
 # 👋 Olá! 
 
-Sou Vinícius Gabriel, um desenvolvedor de software & Analista QA, atualmente faço Técnico em Desenvolvimento de Sistemas na instituição Senai Nami Jafet.
+Sou Vinícius Gabriel, um Desenvolvedor de Software & Analista QA, atualmente faço Técnico em Desenvolvimento de Sistemas na instituição Senai Nami Jafet.
 
 # 🚀 Especializado em:
 
