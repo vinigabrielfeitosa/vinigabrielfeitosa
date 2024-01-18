@@ -6,7 +6,7 @@ Sou Vinícius Gabriel, um Desenvolvedor de Software & Analista QA, Formado em T�
 
 Desenvolvedor Front-End qualificado em desenvolvimento web, criação de interfaces interativas. conhecimento em HTML, CSS, JavaScript.
 
-Além disso disso conhecimento em Testes de Software, buscando garantir a qualidade e a robustez dos produtos.
+Além disso conhecimento em Testes de Software, buscando garantir a qualidade e a robustez dos produtos.
 
 # 💻 Tecnologias que domino:
 
