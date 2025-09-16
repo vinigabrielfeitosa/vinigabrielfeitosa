@@ -1,6 +1,6 @@
 # 👋 Olá! 
 
-Sou **Vinícius Gabriel**, um **Desenvolvedor de Software**.  
+Sou **Vinícius Feitosa**, um **Desenvolvedor de Software**.  
 🎓 Formado em **Técnico em Desenvolvimento de Sistemas** pela instituição **Senai Nami Jafet**  
 📚 Atualmente cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas** pela **PUC Minas**
 
